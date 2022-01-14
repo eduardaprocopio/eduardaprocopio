@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there! Welcome to my Github profile 👋
+### My name is Eduarda, but you can call me Duda! 😄
+
+### ABOUT ME
+
+I'm currently learning JavaScript and React JS.
+
 
 <!--
 **eduardaprocopio/eduardaprocopio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
