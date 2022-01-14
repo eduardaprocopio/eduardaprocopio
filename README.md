@@ -3,7 +3,8 @@
 
 ### ABOUT ME
 
-I'm currently learning JavaScript and React JS.
+[]I'm front end developer 
+[]I'm currently learning JavaScript and React JS.
 
 
 <!--
