@@ -1,5 +1,5 @@
 ## Hello World! Welcome to my Github profile 👋
-## My name is Eduarda, but you can call me Duda! 😄
+### My name is Eduarda, but you can call me Duda! 😄
 
 ### About me
 - I'm Front-end developer from Brazil. 
